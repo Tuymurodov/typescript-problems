@@ -114,7 +114,7 @@
     "s-22.5": "tt-cli run 22.5 --solution"
   },
   "dependencies": {
-    "@types/express": "^4.17.14",
+    "@types/express": "^4.17.21",
     "@types/lodash": "^4.14.186",
     "@types/react": "^18.0.21",
     "express": "^4.18.1",
